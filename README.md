@@ -11,7 +11,7 @@ aprendido sobre Git.
 
 
 ## Estructura de ficheros
-
+```
 CodeForTheSpace/
 ├── README.md
 ├── courses/
@@ -26,6 +26,7 @@ CodeForTheSpace/
     ├── confirmation.md
     ├── payment.md
     └── receipt.md
+```
 
 
 
